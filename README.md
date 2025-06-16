@@ -45,6 +45,7 @@ python app.py
 
 this will open browser with this ```{"detail":"Not Found"}``` output. Just change path to  ``` http://127.0.0.1:8080/docs``` it will open the project.
 
+
 Step 4. For inferencing run the prediction.py file. 
 ```bash
 python prediction.py
