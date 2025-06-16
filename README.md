@@ -50,3 +50,4 @@ Step 4. For inferencing run the prediction.py file.
 ```bash
 python prediction.py
 ```
+
